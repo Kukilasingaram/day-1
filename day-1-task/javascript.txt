@@ -1,0 +1,8 @@
+ javascript:
+
+trim()---->remove unwanted space in before and after in string 
+pop()----->remove the last elements of the array
+math.square()
+math.power()
+sortedinputs()--->it will convert assinding  order-- sort()
+reverse()--> it will convert dessending order
